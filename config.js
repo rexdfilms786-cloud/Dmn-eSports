@@ -5,8 +5,8 @@
 
 // Your public links. Replace the "#" or placeholder text with real ones later.
 export const INSTAGRAM_URL = '#' // e.g. 'https://instagram.com/yourhandle'
-export const YOUTUBE_URL = '#'   // e.g. 'https://youtube.com/@yourchannel'
-export const BUSINESS_EMAIL = 'business@yourdomain.com' // replace with your real email
+export const YOUTUBE_URL = '#'   https://youtube.com/@dmnshahid?si=x8vEYgxbu7A9Grtl
+export const BUSINESS_EMAIL = dmnshahid83@gmail.com
 
 // RECRUITMENT FORM
 // Option A (easiest, free): create a form at https://formspree.io, copy the
