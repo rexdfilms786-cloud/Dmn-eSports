@@ -303,9 +303,9 @@ function Roster() {
                 <div className="art-glow" />
               </div>
               <div className="player-info">
-                <h3>TO BE ANNOUNCED</h3>
-                <p className="muted">{r.tag}</p>
-                <div className="soon"><Clock size={14} /> ROSTER COMING SOON</div>
+               <h3>{['DMN CAPTAIN', 'DMN ASSAULT', 'DMN GUARD', 'DMN FLEX', 'DMN RESERVE 1', 'DMN RESERVE 2'][i]}</h3>
+<p className="muted">{i === 0 ? 'CAPTAIN • ' : ''}{r.tag}</p>
+<div className="soon"><Clock size={14} /> UID: TO BE ANNOUNCED</div>
               </div>
             </article>
           ))}
